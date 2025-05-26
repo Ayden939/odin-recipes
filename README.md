@@ -1,4 +1,1 @@
-This course (the odin project) up to this point has taught the skills to set up a file structure,
-create simple html pages with images and links, and push progress to git with 
-good commit messages. This project is a simple recipe website to practice those 
-skills.
+This project is part of the foundations course for The Odin Project, which is designed to teach full stack web development from scratch. Although I have my degree in computer science, I am going through the Odin Project for practice and to fill any gaps in my knowledge. The project assigned is a simple recepie website based off the skills taught so far.
